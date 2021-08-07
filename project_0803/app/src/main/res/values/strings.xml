@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="facebook_app_id">513928973003325</string>
+    <string name="fb_login_protocol_scheme">fb513928973003325</string>
+    <string name="title_activity_real_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_chatting">Chatting</string>
+    <string name="title_profile">Profile</string>
+</resources>
